@@ -34,13 +34,13 @@ public class Student extends Person{
 	
 	public void show() {
 		System.out.println("--------------------------");
-		System.out.println("ÇĞ»ı ÀÌ¸§: " + getName());
-		System.out.println("ÇĞ»ı ³ªÀÌ: " + getAge());
-		System.out.println("ÇĞ»ı Å°: " + getHeight());
-		System.out.println("ÇĞ»ı ¸ö¹«°Ô: " + getWeight());
-		System.out.println("ÇĞ»ı ÇĞ¹ø: " + getStudentID());
-		System.out.println("ÇĞ»ı ÇĞ³â: " + getGrade());
-		System.out.println("ÇĞ»ı ÇĞÁ¡: " + getGPA());
+		System.out.println("í•™ìƒ ì´ë¦„: " + getName());
+		System.out.println("í•™ìƒ ë‚˜ì´: " + getAge());
+		System.out.println("í•™ìƒ í‚¤: " + getHeight());
+		System.out.println("í•™ìƒ ëª¸ë¬´ê²Œ: " + getWeight());
+		System.out.println("í•™ìƒ í•™ë²ˆ: " + getStudentID());
+		System.out.println("í•™ìƒ í•™ë…„: " + getGrade());
+		System.out.println("í•™ìƒ í•™ì : " + getGPA());
 		
 	}
 }

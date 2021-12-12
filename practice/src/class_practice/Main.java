@@ -4,8 +4,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Student student1 = new Student("È«±æµ¿", 20, 175, 70, "20170101", 1, 4.5);
-		Student student2 = new Student("ÀÌ¼ø½Å", 20, 175, 70, "20170101", 1, 4.5);
+		Student student1 = new Student("í™ê¸¸ë™", 20, 175, 70, "20170101", 1, 4.5);
+		Student student2 = new Student("ì´ìˆœì‹ ", 20, 175, 70, "20170101", 1, 4.5);
 		student1.show();
 		student2.show();
 	}
