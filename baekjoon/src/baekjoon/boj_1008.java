@@ -10,6 +10,5 @@ public class boj_1008 {
 		double b = sc.nextDouble();
 		System.out.println(a / b);
 		sc.close();
-
 	}
 }
